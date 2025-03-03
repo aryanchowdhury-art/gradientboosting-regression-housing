@@ -1,5 +1,3 @@
-echo "# Gradient Boosting Regression for Housing Prices 🚀🏡📊" > README.mdecho "# Gradient Boosting Regression for Housing Prices 🚀🏡📊" > README.md
-
 # Gradient Boosting Regression for Housing Prices 🚀🏡📊  
 
 This project applies **Gradient Boosting Regression** to predict housing prices using ensemble learning techniques.  
